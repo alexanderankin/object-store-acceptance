@@ -1,0 +1,10 @@
+{
+  "name": "object-store-acceptance",
+  "version": "0.0.1",
+  "description": "Acceptance tests for a standard notorious object store REST API",
+  "main": "index.js",
+  "repository": "git@github.com:alexanderankin/object-store-acceptance.git",
+  "author": "Dave Ankin <daveankin@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {}
+}
